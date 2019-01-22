@@ -1,6 +1,6 @@
 {
   "name": "backbone.paginator",
-  "version": "1.1.2-landtech.2",
+  "version": "1.1.2-landtech.3",
   "description": "A pageable Backbone.Collection superset. Supports server-side/client-side/infinite pagination and sorting.",
   "main": "lib/backbone.paginator.js",
   "repository": {
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "underscore": "^1.8.0",
-    "backbone": "github:landtechnologies/backbone#1.1.2-landtech.2"
+    "backbone": "github:landtechnologies/backbone#1.1.2-landtech.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
