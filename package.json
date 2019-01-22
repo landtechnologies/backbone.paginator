@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "underscore": "^1.8.0",
-    "backbone": "1.1.2-landtech.2"
+    "backbone": "github:landtechnologies/backbone#1.1.2-landtech.2"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
